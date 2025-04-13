@@ -95,7 +95,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
 </a>
 </p>
-
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderMuki&show_icons=true&locale=en&title_color=21a319&icon_color=21a319&text_color=9f9f9f&bg_color=151515&hide_border=false&count_private=true" alt="mukilan" />
 </p>
