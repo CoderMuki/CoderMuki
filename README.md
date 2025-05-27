@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Never thought i would be coding for a living**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderMuki&label=Profile%20views&color=0e75b6&style=flat" alt="mukilan" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/trust_me._im_an_engineer" target="blank">
@@ -101,4 +103,3 @@
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMuki&show_icons=true&locale=en&title_color=21a319&icon_color=21a319&text_color=9f9f9f&bg_color=151515&hide_border=false&layout=compact" alt="mukilan"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderMuki&label=Profile%20views&color=0e75b6&style=flat" alt="mukilan" /> </p>
